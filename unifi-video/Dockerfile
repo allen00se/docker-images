@@ -1,4 +1,4 @@
-FROM unifi-video:latest
+FROM pducharme/UniFi-Video-Controller:latest
 LABEL org.freenas.interactive="false"                           \
       org.freenas.version="1"                                   \
       org.freenas.upgradeable="false"                           \
